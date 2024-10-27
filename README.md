@@ -30,7 +30,7 @@ Imagine Atliq Media is a private media company and they wanted to telecast a sho
 
 ## Additional resources
   [List of Indian states and union territories by GDP](https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_GDP)
-  [List of Indian states and union territories by literacy rate](https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_GDP)
+  \n[List of Indian states and union territories by literacy rate](https://en.wikipedia.org/wiki/List_of_Indian_states_and_union_territories_by_GDP)
 
 ## Checkout the live dashboard
 
